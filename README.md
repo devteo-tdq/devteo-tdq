@@ -6,9 +6,9 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TranTeo&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devteo-tdq&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TranTeo&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devteo-tdq&layout=compact&theme=tokyonight)
 
 ---
 
@@ -20,9 +20,9 @@
 ---
 
 ## 📫 Liên hệ
-- ✉️ Email: [banemail@gmail.com](mailto:banemail@gmail.com)  
-- 🌐 Website: [https://username.github.io](https://username.github.io)  
-- 💬 Telegram: [@yourhandle](https://t.me/yourhandle)  
+- ✉️ Email: [banemail@gmail.com](mailto:devteo-tdq@gmail.com)  
+- 🌐 Website: [https://username.github.io](...)  
+- 💬 Telegram: [@yourhandle](...)  
 
 ---
 
